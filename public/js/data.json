@@ -1,0 +1,12 @@
+{
+    "apiUrl": "http://192.168.1.127:9090/",
+    "ssoUrl": "http://192.168.1.127:8090/",
+    "imageUrl": "http://192.168.0.129/api/img",
+    "qgMapUrl": "https://augur.online.cn:6443/arcgis/rest/services/845/MapServer/6",
+    "qyxtMapUrl": "https://augur.online.cn:6443/arcgis/rest/services/845/MapServer/4",
+    "gjqyMapUrl": "https://augur.online.cn:6443/arcgis/rest/services/845/MapServer/3",
+    "tcqyMapUrl": "https://augur.online.cn:6443/arcgis/rest/services/845/MapServer/1",
+    "provinceMapUrl": "https://augur.online.cn:6443/arcgis/rest/services/845/MapServer/5",
+    "cityMapUrl": "https://augur.online.cn:6443/arcgis/rest/services/845/MapServer/2",
+    "geoserverUrl": "http://192.168.1.125:8082/geoserver"
+}
