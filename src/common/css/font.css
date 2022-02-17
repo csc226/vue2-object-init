@@ -1,0 +1,11 @@
+@font-face {
+  font-family: SourceHanSansCN-Bold;
+  src: url("../font/DINNextLTPro-BoldCondensed.ttf");
+}
+@font-face {
+  font-family: DINNextLTPro-BoldCondensed;
+  src: url("../font/DINNextLTPro-BoldCondensed.ttf");
+  /* src: url("../font/SourceHanSansCN-Bold-2.otf"); */
+}
+
+/* @font-face {font-family:Ronda;src:url("./font/DINNextLTPro-BoldCondensed.ttf");} */
